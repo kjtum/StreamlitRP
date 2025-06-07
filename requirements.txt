@@ -1,7 +1,7 @@
 streamlit 
 random
 itertools
-matplotlib.pyplot
+matplotlib
 Image
 os
 pandas 
