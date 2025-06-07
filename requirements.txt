@@ -1,0 +1,7 @@
+streamlit 
+random
+itertools
+matplotlib.pyplot
+Image
+os
+pandas 
